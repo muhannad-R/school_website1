@@ -1,0 +1,61 @@
+.first{
+    color: rgb(39, 39, 221,0.75);
+     background-image: url("../images/11.jpg");
+
+     background-repeat: no-repeat;
+   
+     background-size: contain;
+    
+    }
+.second{
+    background-color: green;
+    width: 600px;
+    color: honeydew;
+    padding: 30px;
+    margin: 10%;
+    border-width: 30px;
+    border-style:groove dashed dotted groove;
+    border-color: blueviolet  fuchsia  ;
+
+
+}
+.third{
+    background-color: rgb(168, 22, 103);
+    color: honeydew;
+    padding: 10%;
+    width: 30%;
+    border-left-width: 30px;
+    border-left-style:groove ;
+    border-left-color: blueviolet   ;
+    outline-width: 5px;
+    outline-color: rgb(135, 196, 100);
+    outline-style:groove;
+
+}
+
+div{
+
+    background-color: greenyellow;
+    color: indianred;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    margin: 20px;
+   
+    display: none;
+
+}
+span{
+    color: plum;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(238, 228, 228);
+    margin: 10px;
+    padding: 30px;
+
+    display: inline-block;
+}
+
+
+
+
