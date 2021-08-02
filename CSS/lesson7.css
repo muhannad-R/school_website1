@@ -1,9 +1,40 @@
 .first{
-
+    background-color: rgb(240, 15, 15);
+    
 }
-.second{
-
+.second{ background-color: rgb(28, 173, 28);
+    
 }
 .third{
-    
+    background-color: rgb(15, 56, 240);
+   
+}
+.first,.second,.third{
+    color: white;
+    width: 20%;
+    height: 50px;
+    padding: 30px;
+    margin: 10px;
+    border:solid 2px black
+
+}
+div p{
+    color: maroon;
+}
+.one p{
+    color: mediumblue;
+
+}
+.two{
+    color: hotpink;
+}
+.two p{
+    color: navajowhite;
+}
+.two .ff{
+    color: green;
+
+}
+.two .one {
+    color: rgb(29, 232, 247);
 }
